@@ -12,7 +12,7 @@ Uso o Git como meu portfólio pessoal!
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fcrusco&show_icons=true&theme=radical&rank_icon=github" height="170" alt="stats do github"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcrusco&layout=compact&theme=radical" height="170" alt="stats do github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fcrusco&show_icons=true&theme=radical&rank_icon=github" height="180cm" alt="stats do github"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcrusco&layout=compact&theme=radical" height="180cm" alt="stats do github"/>
 </div>
 
