@@ -24,13 +24,3 @@
     height="170" alt="stats do github"/>
 </div>
 
-<!-- Streak opcional -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fcrusco&theme=radical" height="170" alt="streak"/>
-</p>
-
-<!-- Social -->
-<p>
-  <a href="https://www.linkedin.com/in/fcs-ti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
-</p>
-
