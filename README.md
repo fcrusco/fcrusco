@@ -7,7 +7,6 @@
 <!-- Badges de stacks principais -->
 <p>
   <img alt="C#"        src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
   <img alt="Python"    src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
 </p>
 
@@ -22,7 +21,7 @@
   <!-- Linguagens mais usadas -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcrusco&layout=compact&theme=radical"
-    height="170" alt="top langs"/>
+    height="170" alt="stats do github"/>
 </div>
 
 <!-- Streak opcional -->
@@ -32,12 +31,6 @@
 
 <!-- Social -->
 <p>
-  <a href="https://instagram.com/fabiocsilva7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge"></a>
-  <a href="mailto:SEUEMAIL@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/fcs-ti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 </p>
 
-<!-- Grade de contribuições (opcional, visual) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fcrusco&theme=react-dark&hide_border=true" alt="activity graph"/>
-</p>
