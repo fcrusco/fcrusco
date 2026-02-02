@@ -7,8 +7,8 @@ Uso o Git como meu portfólio pessoal!
 
 <!-- Badges de stacks principais -->
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fcrusco&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcrusco&layout=compact&theme=radical&cache_seconds=86400" height="180" alt="langs"/>
 </div>
 
