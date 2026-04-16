@@ -10,5 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,react,html,css,js,ai,sqlite,mysql,mongodb,git,github,gitlab,discord,mint)](https://skillicons.dev)
 
 ## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcrusco&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrusco&layout=compact&theme=radical)
