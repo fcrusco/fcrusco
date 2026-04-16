@@ -1,19 +1,18 @@
-# Olá, eu sou Fabio Silva 👋
+# Olá, eu sou Fabio Crusco 👋
 
-Desenvolvedor de software | C# | .NET | APIs | Microsserviços | IA
+Desenvolvedor de software | C# | .NET | APIs | IA
 
 ## Sobre mim
 - Desenvolvedor de software
-- Professor universitário de C#
-- Interesse em IA, Machine Learning e Blockchain
+- IA, Machine Learning e Blockchain
+- Professor universitário
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Email-Contato-EA4335?logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcs-ti/)
 
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,sqlserver,azure,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,sqlserver,oracle,git)](https://skillicons.dev)
 
 ## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcrusco&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrusco&layout=compact&theme=radical)
