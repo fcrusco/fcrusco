@@ -14,32 +14,19 @@
 
 ### 📖 Sobre Mim
 
-Com mais de **28 anos de experiência** na indústria de software, atualmente atuo como **Software Developer**. Minha trajetória é marcada pelo desenvolvimento de soluções robustas em ecossistemas críticos e pela paixão em compartilhar conhecimento.
+Desde **1997** na indústria de software, atualmente atuo como **Engenheiro de Software**. Minha trajetória é marcada pelo desenvolvimento de soluções robustas em ecossistemas críticos e pela paixão em compartilhar conhecimento.
 
-* 👨‍🏫 **Professor Universitário na FIAP**, lecionando Engenharia de Software para o 3º ano.
+* 👨‍🏫 **Professor Universitário na FIAP**, lecionando para turmas de Engenharia de Software.
 * 🤖 Entusiasta de **IA**, desenvolvendo soluções com Python e Bancos de Dados Vetoriais.
-* 🏃‍♂️ Além do código: Praticante de **Corrida de rua**.
+* 🏃‍♂️ Além do código: Praticante de **Corrida de rua**.(5km, 10km, 21km, 42km loading...)
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-
 Foco em performance no backend e inovação em IA:
 
 #### **Backend & Architecture**
-[![Meus Ícones](https://skillicons.dev/icons?i=dotnet,cs,azure,docker,kubernetes,sqlserver,githubactions)](https://skillicons.dev)
-
-#### **AI**
-[![Meus Ícones](https://skillicons.dev/icons?i=python,tensorflow,fastapi,mongodb,postman,git)](https://skillicons.dev)
-
----
-
-### 🎓 Atuação Acadêmica (FIAP)
-
-No ambiente acadêmico, foco na formação de novos engenheiros, abordando:
-- Padrões de projeto e qualidade de software.
-- Desenvolvimento de sistemas distribuídos e escaláveis.
-- Integração de IA no ciclo de vida de desenvolvimento (SDLC).
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,react,html,css,js,py,ai,sqlite,mysql,mongodb,git,github,gitlab,discord,mint)](https://skillicons.dev)
 
 ---
 
