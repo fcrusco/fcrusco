@@ -1,14 +1,19 @@
-<h1 align="left">Seja bem-vindo(a)!</h1>
+# Olá, eu sou Fabio Silva 👋
 
-<p align="left">
-Aqui tem de tudo um pouco: projetos, exercícios e trabalhos. 
-Uso o Git como meu portfólio pessoal!
-</p>
+Desenvolvedor de software | C# | .NET | APIs | Microsserviços | IA
 
-<!-- Badges de stacks principais -->
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-</div>
+## Sobre mim
+- Desenvolvedor de software
+- Professor universitário de C#
+- Interesse em IA, Machine Learning e Blockchain
 
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Email-Contato-EA4335?logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+## Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,sqlserver,azure,docker,git)](https://skillicons.dev)
+
+## Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
