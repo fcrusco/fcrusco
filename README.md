@@ -1,3 +1,16 @@
+---
+<div align="center">
+
+  <p>
+    <i>"O verdadeiro legado está no que compartilhamos na jornada! E que não nos falte Café!"</i><br>
+    <i>"True legacy lies in what we share along the journey! And may we never run out of Coffee!"</i>
+  </p>
+
+  <img src="https://img.shields.io/badge/-☕-white?style=flat" alt="Coffee" />
+
+</div>
+---
+
 <div align="center">
   <h3>Engenheiro de Software | AI & Especialista .NET | Professor Universitário</h3>
   
@@ -40,16 +53,3 @@ Foco em performance e inovação em IA:
   </table>
 </div>
 
----
----
-
-<div align="center">
-
-  <p>
-    <i>"O verdadeiro legado está no que compartilhamos na jornada! E que não nos falte Café!"</i><br>
-    <i>"True legacy lies in what we share along the journey! And may we never run out of Coffee!"</i>
-  </p>
-
-  <img src="https://img.shields.io/badge/-☕-white?style=flat" alt="Coffee" />
-
-</div>
