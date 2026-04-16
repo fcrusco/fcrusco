@@ -20,8 +20,6 @@
   </a>
 </div>
 
----
-
 ### 📖 Sobre Mim
 
 Desde **1997** na indústria de software, atualmente atuo como Engenheiro de Software. Minha trajetória é marcada pelo desenvolvimento de soluções robustas em ecossistemas críticos e pela paixão em compartilhar conhecimento.
