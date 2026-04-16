@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Fabio%20Crusco&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
-
-<div align="center">
   <h3>Software Architect | University Professor | AI & .NET Specialist</h3>
   
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/fcs-ti/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -26,7 +22,7 @@ Desde **1997** na indústria de software, atualmente atuo como **Engenheiro de S
 Foco em performance no backend e inovação em IA:
 
 #### **Backend & Architecture**
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,react,html,css,js,py,ai,sqlite,mysql,mongodb,git,github,gitlab,discord,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,py,ai,sqlite,mysql,mongodb,git,github,gitlab,discord,mint)](https://skillicons.dev)
 
 ---
 
@@ -47,5 +43,5 @@ Foco em performance no backend e inovação em IA:
 
 ---
 <p align="center">
-  <i>"A tecnologia é o meio, a solução de problemas reais é o fim."</i>
+  <i>"O verdadeiro legado está no que compartilhamos na jornada! E que não nos falte Café!"</i>
 </p>
