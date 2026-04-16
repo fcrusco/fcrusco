@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Engenheiro de Software | Professor Universitário | AI & Especialista .NET</h3>
+  <h3>Engenheiro de Software | AI & Especialista .NET | Professor Universitário</h3>
   
   <a href="https://www.linkedin.com/in/fcs-ti/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
