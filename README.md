@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcs-ti/)
 
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,sql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,react,html,css,js,ai,sqlite,mysql,mongodb,git,github,gitlab,discord,mint)](https://skillicons.dev)
 
 ## Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcrusco&show_icons=true&theme=radical)
