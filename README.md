@@ -10,7 +10,7 @@
 
 ### 📖 Sobre Mim
 
-Desde **1997** na indústria de software, atualmente atuo como **Engenheiro de Software**. Minha trajetória é marcada pelo desenvolvimento de soluções robustas em ecossistemas críticos e pela paixão em compartilhar conhecimento.
+Desde **1997** na indústria de software, atualmente atuo como Engenheiro de Software. Minha trajetória é marcada pelo desenvolvimento de soluções robustas em ecossistemas críticos e pela paixão em compartilhar conhecimento.
 
 * 👨‍🏫 **Professor Universitário na FIAP**, lecionando para turmas de Engenharia de Software.
 * 🤖 Entusiasta de **IA**, desenvolvendo soluções com Python e Bancos de Dados Vetoriais.
