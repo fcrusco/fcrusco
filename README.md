@@ -19,9 +19,8 @@ Desde **1997** na indústria de software, atualmente atuo como Engenheiro de Sof
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-Foco em performance no backend e inovação em IA:
+Foco em performance e inovação em IA:
 
-#### **Backend & Architecture**
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,py,ai,sqlite,mysql,mongodb,git,github,gitlab,discord,mint)](https://skillicons.dev)
 
 ---
